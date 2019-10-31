@@ -1,5 +1,5 @@
 # First blog in Django
-I learn django on this file
+I learn django on this file.
 
 ## Technologies:
 - Python
