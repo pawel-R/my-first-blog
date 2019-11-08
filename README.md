@@ -7,3 +7,5 @@ Simple project to adding posts with descriptions and date.
 - HTML
 - CSS
 - Bootsrap
+
+<img src="img/gifek.gif">
