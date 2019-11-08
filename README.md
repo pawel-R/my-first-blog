@@ -1,5 +1,5 @@
 # First blog in Django
-I learn django on this file.
+Simple project to adding posts with descriptions and date.
 
 ## Technologies:
 - Python
@@ -7,8 +7,3 @@ I learn django on this file.
 - HTML
 - CSS
 - Bootsrap
-- GitHub
-- pythonanyware.com
-
-## Website
-blogdjango4.pythonanywhere.com
